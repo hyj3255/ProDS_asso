@@ -21,4 +21,4 @@
       - 다음 명령어 입력 방법 중 택일
       - 기본 : cmd /k jupyter notebook
       - 워킹디렉토리 지정 후 작동: cmd /k cd {주피터 노트북 기준 경로} & jupyter notebook
-        -> (예시) cmd /k cd C:\Users\{사용자명}\Documents & jupyter notebook 
+        - (예시) cmd /k cd C:\Users\{사용자명}\Documents & jupyter notebook 
